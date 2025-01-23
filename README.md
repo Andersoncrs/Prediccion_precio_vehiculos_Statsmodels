@@ -1,4 +1,4 @@
-# Predicción del Precio de Vehículos con Regresión Lineal
+# 🚗 Predicción del Precio de Vehículos con Regresión Lineal
 
 Este proyecto tiene como objetivo predecir el precio de los vehículos a partir de sus características utilizando un modelo de regresión lineal. A continuación, se presenta una descripción detallada del análisis realizado y los pasos seguidos en todo el proceso.
 
