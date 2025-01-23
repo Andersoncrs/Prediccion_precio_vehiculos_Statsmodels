@@ -1,6 +1,8 @@
 # 🚗 Predicción del Precio de Vehículos con Regresión Lineal
 ![](banner.jpg)
 
+> 💡 Puedes visualizar el informe completo en el siguiente enlace de la plataforma de Kaggle: [Informe de análisis  Predicción del Precio de Vehículos con Regresión Lineal](https://www.kaggle.com/code/andersonrodriguezs/regresion-lineal-precio-vehiculos-en-espa-ol)
+
 Este proyecto tiene como objetivo predecir el precio de los vehículos a partir de sus características utilizando un modelo de regresión lineal. A continuación, se presenta una descripción detallada del análisis realizado y los pasos seguidos en todo el proceso.
 
 ## 📖 Tabla de Contenidos
